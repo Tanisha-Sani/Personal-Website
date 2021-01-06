@@ -84,7 +84,7 @@ ul li{
     width:100%;
 }
 h3{
-    color:#4f3c7a;
+    color:#782f02;
 }
 .project p{
     color: #4f4663;
@@ -92,6 +92,41 @@ h3{
     font-weight: 600;
 }
 
+.position-image{
+    position:relative;
+}
+
+.position-image img{
+    width:50%;
+    margin-left:25%;
+    margin-top: 12%;
+}
+.position-text h1{
+    position: absolute;
+    margin-top: -100px;
+    margin-left: 30%;
+    color:white;
+    font-weight: bold;
+}
+.position-button{
+    position: absolute;
+    margin-top: -100px;
+    margin-left: 60%;
+}
+.Connect{
+    text-align: center;
+    margin-top: 8%;
+}
+.h4-text{
+    color:#782f02;
+    font-size:30px;
+
+}
+.p-text{
+    font-size: 30px;
+    color:#4f4663;
+    margin-top: 1%;
+}
 .footer{
 	background:black;
 	color:#fff;
