@@ -1,0 +1,31 @@
+body{
+
+}
+.menu-bar{
+   float:right;
+   margin-right: 100px;
+   margin-top:-100px;
+}
+ul li{
+    text-style-type: none;
+    display: inline-block;
+    padding: 15px;
+    font-size: 15px;
+    font-weight: bold;
+    color:grey;
+    
+}
+.first-section{
+    width:80%;
+    margin:10%;
+    margin-top:120px;
+    display:flex;
+}
+.half-width{
+    width: 40%;
+}
+.half-width img{
+    width:50%;
+   
+    float:right;
+}
